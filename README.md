@@ -4,7 +4,7 @@ MCP ID: 14723792
 
 ## Competency Requirements for Microsoft Gold Partner in Data Analytics
 
-Exam 461: Querying Microsoft SQL Server 2012/2014
+#### Exam 461: Querying Microsoft SQL Server 2012/2014
 
 Jul 2017 – Permanent 
 
