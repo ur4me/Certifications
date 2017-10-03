@@ -21,6 +21,10 @@ https://1drv.ms/i/s!Ag44bY-ZJIWUmHiLFf_ym24u_zAl
 Sep 2017 - Permanent  
 https://1drv.ms/i/s!Ag44bY-ZJIWUmHleyLOJBrZBeP9t
 
+#### Advanced Analytics for Data Analytics (MPN10275)  
+Oct 2017 - Permanent  
+https://1drv.ms/i/s!Ag44bY-ZJIWUmH16bsD_pHqgotw2  
+
 
 ## Other Certifications
 
