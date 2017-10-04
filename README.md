@@ -34,13 +34,13 @@ https://1drv.ms/i/s!Ag44bY-ZJIWUmH16bsD_pHqgotw2
 ## Other Certifications
 
 #### Introduction to R for Data Science
-Jul 2017 – Permanent 
+Jul 2017 – Permanent   
 Certification authority : Microsoft & EDX    
 License : ccedb9b9af15459091659847638ad0be  
 https://courses.edx.org/certificates/ccedb9b9af15459091659847638ad0be
 
 #### Machine Learning Foundations: A Case Study Approach
-May 2017 – Permanent   
+May 2017 – Permanent     
 Certification authority : University of Washington & Coursera    
 License : F3RYSWQB6DNK  
 https://www.coursera.org/account/accomplishments/certificate/F3RYSWQB6DNK
