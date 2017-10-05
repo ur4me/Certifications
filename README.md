@@ -31,7 +31,7 @@ Certification authority : Microsoft
 https://1drv.ms/i/s!Ag44bY-ZJIWUmH16bsD_pHqgotw2  
 
 
-## Other Certifications
+## Data Science Certifications
 
 #### Introduction to R for Data Science
 Jul 2017 – Permanent   
