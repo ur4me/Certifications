@@ -44,3 +44,6 @@ May 2017 – Permanent
 Certification authority : University of Washington & Coursera    
 License : F3RYSWQB6DNK  
 https://www.coursera.org/account/accomplishments/certificate/F3RYSWQB6DNK
+
+#### Machine Learning Stanford University (Andrew Ng)  
+Planning to get certification by end of Oct
