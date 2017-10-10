@@ -2,7 +2,9 @@
 
 ## Competency Requirements for Microsoft Gold Partner in Data Analytics  
 MCP ID:14723792  
-Certification Link: https://www.youracclaim.com/badges/3b16bf39-fb29-4669-a99a-3f6a82302067  
+SQL Certification Link: https://www.youracclaim.com/badges/3b16bf39-fb29-4669-a99a-3f6a82302067  
+https://1drv.ms/f/s!Ag44bY-ZJIWUmQWnCtLhSh2sIqwx
+MPN Competency Link: https://1drv.ms/f/s!Ag44bY-ZJIWUmQWnCtLhSh2sIqwx
 
 #### Exam 461: Querying Microsoft SQL Server 2012/2014
 Jul 2017 – Permanent  
