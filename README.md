@@ -29,17 +29,22 @@ Certification authority : Microsoft
 
 ## Data Science Certifications
 
+#### Machine Learning by Stanford University (Andrew Ng)   
+Oct 2017 - Permanent  
+Certification authority : Stanford University & Coursera  
+License : BG3886M4FNYU  
+https://www.coursera.org/account/accomplishments/certificate/BG3886M4FNYU  
+
+#### Machine Learning Foundations: A Case Study Approach (Carlos Guestrin)
+May 2017 – Permanent     
+Certification authority : University of Washington & Coursera    
+License : F3RYSWQB6DNK  
+https://www.coursera.org/account/accomplishments/certificate/F3RYSWQB6DNK
+
 #### Introduction to R for Data Science
 Jul 2017 – Permanent   
 Certification authority : Microsoft & EDX    
 License : ccedb9b9af15459091659847638ad0be  
 https://courses.edx.org/certificates/ccedb9b9af15459091659847638ad0be
 
-#### Machine Learning Foundations: A Case Study Approach
-May 2017 – Permanent     
-Certification authority : University of Washington & Coursera    
-License : F3RYSWQB6DNK  
-https://www.coursera.org/account/accomplishments/certificate/F3RYSWQB6DNK
 
-#### Machine Learning Stanford University (Andrew Ng)  
-Planning to get certification by end of Oct
