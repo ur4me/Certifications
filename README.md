@@ -47,4 +47,23 @@ Certification authority : Microsoft & EDX
 License : ccedb9b9af15459091659847638ad0be  
 https://courses.edx.org/certificates/ccedb9b9af15459091659847638ad0be
 
+#### Developing Data Products
+Oct 2017 – Permanent    
+Certification authority : Johns Hopkins University & Coursera     
+License : 6ZXMK5R4CJRU        
+https://www.coursera.org/account/accomplishments/certificate/QXVW24RA5J2T  
+
+#### Practical Machine Learning
+Oct 2017 – Permanent      
+Certification authority : Johns Hopkins University & Coursera       
+License : 228YLEBEUBHL         
+https://www.coursera.org/account/accomplishments/records/228YLEBEUBHL
+
+#### Getting and Cleaning Data
+Oct 2017 – Permanent      
+Certification authority : Johns Hopkins University & Coursera       
+License : MQTDPSX2LGVK         
+https://www.coursera.org/account/accomplishments/records/MQTDPSX2LGVK
+
+
 
