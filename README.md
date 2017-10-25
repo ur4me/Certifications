@@ -65,5 +65,9 @@ Certification authority : Johns Hopkins University & Coursera
 License : FMTZMD8PNDRF          
 https://www.coursera.org/account/accomplishments/certificate/FMTZMD8PNDRF
 
-
+#### The Data Scientist’s Toolbox  
+Oct 2017 – Permanent        
+Certification authority : Johns Hopkins University & Coursera           
+License : MKQW82KXRNQS            
+https://www.coursera.org/account/accomplishments/certificate/MKQW82KXRNQS
 
