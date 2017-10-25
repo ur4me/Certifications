@@ -71,3 +71,8 @@ Certification authority : Johns Hopkins University & Coursera
 License : MKQW82KXRNQS            
 https://www.coursera.org/account/accomplishments/certificate/MKQW82KXRNQS
 
+#### R Programming  
+Oct 2017 – Permanent          
+Certification authority : Johns Hopkins University & Coursera             
+License : P72ND7JNUP8L             
+https://www.coursera.org/account/accomplishments/certificate/P72ND7JNUP8L
