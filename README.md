@@ -76,3 +76,15 @@ Oct 2017 – Permanent
 Certification authority : Johns Hopkins University & Coursera             
 License : P72ND7JNUP8L             
 https://www.coursera.org/account/accomplishments/certificate/P72ND7JNUP8L
+
+#### Regression Models  
+Oct 2017 – Permanent            
+Certification authority : Johns Hopkins University & Coursera               
+License : GAAVM33NUZHG               
+https://www.coursera.org/account/accomplishments/certificate/GAAVM33NUZHG
+
+#### Reproducible Research 
+Oct 2017 – Permanent            
+Certification authority : Johns Hopkins University & Coursera               
+License : XAM33ZCUS9NE              
+https://www.coursera.org/account/accomplishments/certificate/XAM33ZCUS9NE  
