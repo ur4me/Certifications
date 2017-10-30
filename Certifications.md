@@ -87,4 +87,10 @@ https://www.coursera.org/account/accomplishments/certificate/GAAVM33NUZHG
 Oct 2017 – Permanent            
 Certification authority : Johns Hopkins University & Coursera               
 License : XAM33ZCUS9NE              
-https://www.coursera.org/account/accomplishments/certificate/XAM33ZCUS9NE  
+https://www.coursera.org/account/accomplishments/certificate/XAM33ZCUS9NE
+
+#### Exploratory Data Analysis
+Oct 2017 – Permanent              
+Certification authority : Johns Hopkins University & Coursera                 
+License : 3JSZS6X7P94W                
+https://www.coursera.org/account/accomplishments/certificate/3JSZS6X7P94W  
