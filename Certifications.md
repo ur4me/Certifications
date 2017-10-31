@@ -29,17 +29,17 @@ Certification authority : Microsoft
 
 ## Data Science Certifications
 
-#### Developing Data Products
-Oct 2017 – Permanent    
-Certification authority : Johns Hopkins University & Coursera     
-License : QXVW24RA5J2T          
-https://www.coursera.org/account/accomplishments/certificate/QXVW24RA5J2T  
-
 #### Practical Machine Learning
 Oct 2017 – Permanent      
 Certification authority : Johns Hopkins University & Coursera       
 License : 9VTCHRQUH3PN           
 https://www.coursera.org/account/accomplishments/certificate/9VTCHRQUH3PN
+
+#### Developing Data Products
+Oct 2017 – Permanent    
+Certification authority : Johns Hopkins University & Coursera     
+License : QXVW24RA5J2T          
+https://www.coursera.org/account/accomplishments/certificate/QXVW24RA5J2T  
 
 #### Getting and Cleaning Data
 Oct 2017 – Permanent      
@@ -76,6 +76,12 @@ Oct 2017 – Permanent
 Certification authority : Johns Hopkins University & Coursera                 
 License : 3JSZS6X7P94W                
 https://www.coursera.org/account/accomplishments/certificate/3JSZS6X7P94W  
+
+#### Statistical Inference
+Oct 2017 – Permanent        
+Certification authority : Johns Hopkins University & Coursera         
+License : Z6AW24JDL2ZQ           
+https://www.coursera.org/account/accomplishments/certificate/Z6AW24JDL2ZQ  
 
 #### Machine Learning by Stanford University (Andrew Ng)   
 Oct 2017 - Permanent  
