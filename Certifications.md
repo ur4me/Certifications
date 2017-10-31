@@ -29,24 +29,6 @@ Certification authority : Microsoft
 
 ## Data Science Certifications
 
-#### Machine Learning by Stanford University (Andrew Ng)   
-Oct 2017 - Permanent  
-Certification authority : Stanford University & Coursera  
-License : BG3886M4FNYU  
-https://www.coursera.org/account/accomplishments/certificate/BG3886M4FNYU  
-
-#### Machine Learning Foundations: A Case Study Approach (Carlos Guestrin)
-May 2017 – Permanent     
-Certification authority : University of Washington & Coursera    
-License : F3RYSWQB6DNK  
-https://www.coursera.org/account/accomplishments/certificate/F3RYSWQB6DNK
-
-#### Introduction to R for Data Science
-Jul 2017 – Permanent   
-Certification authority : Microsoft & EDX    
-License : ccedb9b9af15459091659847638ad0be  
-https://courses.edx.org/certificates/ccedb9b9af15459091659847638ad0be
-
 #### Developing Data Products
 Oct 2017 – Permanent    
 Certification authority : Johns Hopkins University & Coursera     
@@ -94,3 +76,31 @@ Oct 2017 – Permanent
 Certification authority : Johns Hopkins University & Coursera                 
 License : 3JSZS6X7P94W                
 https://www.coursera.org/account/accomplishments/certificate/3JSZS6X7P94W  
+
+#### Machine Learning by Stanford University (Andrew Ng)   
+Oct 2017 - Permanent  
+Certification authority : Stanford University & Coursera  
+License : BG3886M4FNYU  
+https://www.coursera.org/account/accomplishments/certificate/BG3886M4FNYU  
+
+#### Machine Learning Foundations: A Case Study Approach (Carlos Guestrin)
+May 2017 – Permanent     
+Certification authority : University of Washington & Coursera    
+License : F3RYSWQB6DNK  
+https://www.coursera.org/account/accomplishments/certificate/F3RYSWQB6DNK
+
+#### Introduction to R for Data Science
+Jul 2017 – Permanent   
+Certification authority : Microsoft & EDX    
+License : ccedb9b9af15459091659847638ad0be  
+https://courses.edx.org/certificates/ccedb9b9af15459091659847638ad0be
+
+
+## Other Certifications
+
+#### Fundamentals of Visualization with Tableau
+Oct 2017 – Permanent                
+Certification authority : University of California, Davis & Coursera                   
+License : PRYHH68P3L9K                  
+https://www.coursera.org/account/accomplishments/certificate/PRYHH68P3L9K
+
