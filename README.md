@@ -2,6 +2,12 @@
 
 ## Data Science Certifications
 
+### Data Science Specialization
+Permanent  
+Certification authority : Johns Hopkins University & Coursera     
+License : K7FSLTXRBK9P       
+https://www.coursera.org/account/accomplishments/specialization/certificate/K7FSLTXRBK9P
+
 #### Practical Machine Learning
 Permanent      
 Certification authority : Johns Hopkins University & Coursera       
@@ -55,6 +61,12 @@ Permanent
 Certification authority : Johns Hopkins University & Coursera         
 License : Z6AW24JDL2ZQ           
 https://www.coursera.org/account/accomplishments/certificate/Z6AW24JDL2ZQ  
+
+#### Data Science Capstone 
+Permanent        
+Certification authority : Johns Hopkins University & Coursera         
+License : UPAALZ9VLDYF            
+https://www.coursera.org/account/accomplishments/certificate/UPAALZ9VLDYF  
 
 #### Machine Learning by Stanford University (Andrew Ng)   
 Permanent  
